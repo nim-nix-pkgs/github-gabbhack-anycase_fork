@@ -6,7 +6,7 @@
   "tags": [],
   "url": "https://github.com/gabbhack/anycase-fork",
   "refs": [
-    "fatal: unable to access 'https://github.com/gabbhack/anycase-fork/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/gabbhack/anycase-fork/': Failed to connect to github.com port 443 after 130696 ms: Network is unreachable",
     ""
   ],
   "heads": []
